@@ -3,4 +3,12 @@ Class Jose {
     metodo5() {}
     metodo8() {}
     metodo2() {}
+    metodo3() {
+    }
+    metodo4() {
+
+    }
+    metodo5() {
+        
+    }
 }
