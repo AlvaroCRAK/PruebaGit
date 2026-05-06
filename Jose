@@ -1,7 +1,9 @@
 Class Jose {
+    metodo7() {}
     metodo1() {}
     metodo5() {}
     metodo8() {}
+    metodo9() {}
     metodo2() {}
     metodo3() {
     }
@@ -11,4 +13,5 @@ Class Jose {
     metodo5() {
         
     }
+    metodo12() {}
 }
