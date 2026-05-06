@@ -1,4 +1,6 @@
 Class Jose {
     metodo1() {}
+    metodo5() {}
+    metodo8() {}
     metodo2() {}
 }
